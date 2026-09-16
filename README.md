@@ -14,3 +14,4 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 | **Jura & regler** | [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Søg i 62.764 danske love — Databeskyttelsesloven, Straffeloven, Forvaltningsloven m.fl. |
 | **Infrastruktur & web** | [Simply.com MCP](https://www.simply.com/dk/docs/mcp/) | Domænetjek direkte i din AI-assistent |
 | **Infrastruktur & web** | [nemlig_cli](https://github.com/eisbaw/nemlig_cli) | Kommandolinjegrænseflade til nemlig.com's netbutik |
+| **Finans & bank** | [Danske Bank Developers](https://developers.danskebank.com/) | Udviklerportal for Danske Banks API’er |
