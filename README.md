@@ -2,18 +2,6 @@
 
 Kender du en dansk MCP resource der mangler på listen? Så send et pull request afsted eller opret et issue!
 
-## Information
-
-### Ressourcetyper
-
-#### GitHub repository
-
-Linker direkte til kildekoden for MCP-serveren.
-
-#### Pakke / dokumentation
-
-Linker til en npm-pakke, udviklerportal eller produktdokumentation for MCP-serveren.
-
 ## Virksomhedsdata
 
 | MCP | Beskrivelse |
