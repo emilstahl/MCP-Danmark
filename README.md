@@ -35,6 +35,7 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 
 | MCP | Beskrivelse |
 |-----|-------------|
+| [aula-mcp](https://github.com/Casperjuel/aula-mcp) | MCP-server til Aula |
 | [Simply.com MCP](https://www.simply.com/dk/docs/mcp/) | Domænetjek direkte i din AI-assistent |
 | [Dansk Adresse API MCP](https://danskadresseapi.dk/) | Slå danske adresser op via Dansk Adresse API |
 | [nemlig_cli](https://github.com/eisbaw/nemlig_cli) | Kommandolinjegrænseflade til nemlig.com's netbutik |
