@@ -29,7 +29,7 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 
 | MCP | Beskrivelse |
 |-----|-------------|
-| [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Søg i 62.764 danske love — Databeskyttelsesloven, Straffeloven, Forvaltningsloven m.fl. |
+| [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Søg i danske love |
 
 ## Infrastruktur & web
 
