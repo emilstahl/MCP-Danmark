@@ -42,4 +42,5 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 
 | MCP | Beskrivelse |
 |-----|-------------|
+| [Dinero MCP](https://dinero.dk/funktioner/mcp/) | MCP-integration til Dinero |
 | [Danske Bank Developers](https://developers.danskebank.com/) | Udviklerportal for Danske Banks API’er |
