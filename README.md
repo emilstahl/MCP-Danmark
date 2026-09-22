@@ -8,6 +8,7 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 |-----|-------------|
 | [mcp-danish-cvr](https://github.com/robobobby/mcp-danish-cvr) | Søg og slå danske CVR-numre op |
 | [FirmaAPI MCP Server](https://www.npmjs.com/package/firmaapi-mcp-server) | MCP-server til FirmaAPI |
+| [Leadlist CVR MCP](https://leadlist.dk/cvr-mcp/) | Søg, segmentér og byg lister over danske virksomheder via CVR-data |
 | [nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) | Verificér virksomheder på tværs af DK, NO, FI og SE — konkurs, bestyrelse, tegningsret og økonomi |
 | [Liviate CVR MCP](https://liviate.com/da/docs/cvr-dar-xbrl-mcp) | Slå danske virksomheder op i CVR på navn, by, adresse eller koordinat, samt deltager-/ejeropslag. Remote-server med OAuth og gratis kvote |
 | [Liviate XBRL MCP](https://liviate.com/da/docs/cvr-dar-xbrl-mcp) | Regnskabstal og nøgletal fra danske årsrapporter (XBRL), for enkeltselskaber og i batch. Remote-server med OAuth og gratis kvote |
