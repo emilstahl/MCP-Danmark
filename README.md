@@ -42,6 +42,12 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 | [Dansk Adresse API MCP](https://danskadresseapi.dk/) | Slå danske adresser op via Dansk Adresse API |
 | [Liviate DAR MCP](https://liviate.com/da/docs/cvr-dar-xbrl-mcp) | Fritekst- og vejbaseret søgning i Danmarks Adresseregister (DAR). Remote-server med OAuth og gratis kvote |
 
+## Sport & foreninger
+
+| MCP | Beskrivelse |
+|-----|-------------|
+| [holdsport-mcp](https://github.com/troelskn/holdsport-mcp) | MCP-server til Holdsport med adgang til hold, medlemmer, aktiviteter, chat og email |
+
 ## Mad & dagligvarer
 
 | MCP | Beskrivelse |
